@@ -38,6 +38,6 @@ Anil Sathyan
 Free to use share or modify!! ... Copyleft!!
 
 ## Acknowledgments
-"http://effbot.org/tkinterbook/tkinter-index.htm"
-"Tutorialspoint"
-"A Byte of Python"
+* "http://effbot.org/tkinterbook/tkinter-index.htm"
+* "Tutorialspoint"
+* "A Byte of Python"
