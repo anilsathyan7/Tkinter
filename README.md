@@ -1,23 +1,23 @@
-Tkinter: Intro to Python GUI Programming
+# Tkinter: Intro to Python GUI Programming
 
 Basic python programs for beginners...
 
-Getting Started
+## Getting Started
 
 Recommended basic knowledge of Python
 
-Prerequisites
+## Prerequisites
 
 Just a 'Computer System': Unix,Windows or MAC ...
 
-Installing
+### Installing
 
 $ sudo apt-get install python on a unix system
 
 Or install Python for Windows
 
 
-Running the tests
+### Running the tests
 
 In terminal: python filename.py or Run from a IDLE/Anaconda (windows).
 
@@ -26,19 +26,18 @@ You may also execute python online
 
 Alternately type python in terminal and you can directly start coding!!!
 
-Versioning
+## Versioning
 
 Version 1.0
 
-Authors
+## Authors
 
 Anil Sathyan
-License
+## License
 
 Free to use share or modify!! ... Copyleft!!
 
-Acknowledgments
-
+## Acknowledgments
 "http://effbot.org/tkinterbook/tkinter-index.htm"
 "Tutorialspoint"
 "A Byte of Python"
